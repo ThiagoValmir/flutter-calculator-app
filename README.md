@@ -9,3 +9,7 @@ User-friendly and responsive interface.
 History of performed operations.
 Supports calculations with multiple digits.
 
+## Acknowledgments
+
+
+
